@@ -1,4 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZhjhMsoK)
+
+To RUN My Code Please read this:
+https://www.notion.so/Challenge-5-2b6f6ad8a8ce80ef9126c91c45167624?source=copy_link
+
 # Challenge 5 (Phase 1) - Batch Repetition
 
 ---
